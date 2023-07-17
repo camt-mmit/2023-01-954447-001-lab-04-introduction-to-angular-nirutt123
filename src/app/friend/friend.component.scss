@@ -1,0 +1,21 @@
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 0.5px 4px;
+  margin: 0 4px;
+}
+
+table {
+  width: 80%;
+  max-width: 500px;
+}
+
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
